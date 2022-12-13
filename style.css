@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center
+}
+img{ align-content: center;
+}
+
+a{
+  padding-left: 10x;
+  padding-right: 10x;
+  background-color: grey;
+}
+
